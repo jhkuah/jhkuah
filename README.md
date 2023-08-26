@@ -1,7 +1,8 @@
 ### Hi there, I'm Jian Ho 👋
 
-- 🔭 I’m currently working on web development
+- 🔭 I’m interested in Web Development
 - 🌱 I’m currently learning React and Laravel
-- 📫 Reach me @ Discord : jhkuah | [E-mail](mailto:kjh_1997@hotmail.com)
+- 💻I spend most of my time upskilling myself
+- 📫 Reach me: Discord : jhkuah | [E-mail](mailto:kjh_1997@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/jian-ho-kuah-647605171/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love bouldering as it helps me to relax
